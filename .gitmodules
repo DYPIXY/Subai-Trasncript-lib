@@ -1,3 +1,6 @@
 [submodule "whisper.cpp"]
-	path = whisper.cpp
+	path = lib/whisper.cpp
 	url = https://github.com/ggerganov/whisper.cpp.git
+[submodule "lib/ffmpeg-cpp"]
+	path = lib/ffmpeg-cpp
+	url = https://github.com/galla15/ffmpeg-cpp-linux.git
